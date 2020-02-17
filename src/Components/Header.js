@@ -17,7 +17,6 @@ class Header extends Component {
       <header id="home">
          <video
             autoPlay
-            muted
             loop
             style={{
                position: "fixed",
@@ -26,7 +25,7 @@ class Header extends Component {
                top: 0
             }}
             >
-            <source src="/videos/header-bg.mp4" type="video/mp4" />
+            <source src="/videos/header_bg.mp4" type="video/mp4" />
          </video>
 
       <nav id="nav-wrap">
