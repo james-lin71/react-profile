@@ -1,46 +1,26 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Lin Ming",
+    "occupation":"Solid Web Developer",
+    "description":"Top talented web developer of 7+ years of experience dedicated to building and optimizing the performance of user-centrist, high-impact websites and solutions for nationwide and global companies.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio":" Leverage technical, analytical and problem-solving skills to create dynamic, high-speed websites, apps and platforms fueling competitive advantage and revenue growth.",
+    "contactmessage":"Please contact me!",
+    "email": "lin038532@gmail.com",
+    "phone": "+7 914-070-9513",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"54A Chelyuskina Street",
+      "city":"Vladivostok, Russia",
+      "state":"Primorsky Krai",
+      "zip": "692030"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://hotdev6m.c1.biz",
+    "resumedownload":"https://drive.google.com/uc?id=1wjmDWSk_Tf7MGEbva7ROTpt6sxR0VYIO&authuser=0&export=download",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://www.facebook.com/linming23",
         "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
       },
       {
         "name":"github",
@@ -58,106 +38,84 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"North China University of Science and Technology",
+        "degree":"Bachelor's Degree in Computer Science",
+        "graduated":"September 2012",
+        "description":"Computer Software Engineering, distance learning"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Tianjin International Schoo",
+        "degree":"",
+        "graduated":"March 2009",
+        "description":"Computer Software Programing"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Self Employed",
+        "title":"Freelancer",
+        "years":"March 2018 - Present",
+        "description":"Help start-up companies with solid coding and professional front-end development."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"KR Soft.",
+        "title":"Senior Developer",
+        "years":"Jul 2015 – Dec 2018",
+        "description":"Improves systems performance by investigating problems, developing specifications, identifying trends in technology, and recommending solutions \nAssist other developers in resolving issues by providing guidance and training \nPerforms other duties as assigned by management \nMay make hardware or software purchasing recommendations regarding web development \nWork is constantly performed in an office environment \nMay develop a range of products including device drivers, patches, operating system modifications, graphics modules, etc \nCollaborate with web-developers building a browser-based front-end using HTML and JavaScript"
+      },
+      {
+        "company":"KR Soft.",
+        "title":"Junior Full-Stack Developer",
+        "years":"May 2014 – Jul 2015",
+        "description":"Perform performance tuning and optimization \nDesign and develop tools to improve efficiency \nAdminister document management and content management systems \nProvide documentation of developed code \nProvide basic levels of effort associated with work requests \nCommunicates with domain experts, users, and management throughout the software development lifecycle. T"
       }
     ],
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "level":"100%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"JavaScript/HTML/CSS",
+        "level":"100%"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"97%"
       },
       {
-        "name":"CSS",
+        "name":"React Hooks",
+        "level":"80%"
+      },
+      {
+        "name":"AngularJS",
         "level":"90%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
-      },
-      {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"Next.js",
+        "level":"90%"
       },
       {
         "name":"MongoDB",
-        "level":"80%"
+        "level":"100%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Education Resource Management System",
+        "category":"education resource manage system",
+        "image":"ecr.jpg",
+        "url":"http://ecr.teewon.net"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"",
+        "user":"Lin Ming"
       }
     ]
   }

@@ -15,6 +15,19 @@ class Header extends Component {
 
     return (
       <header id="home">
+         <video
+            autoPlay
+            muted
+            loop
+            style={{
+               position: "fixed",
+               width: "100%",
+               left: 0,
+               top: 0
+            }}
+            >
+            <source src="/videos/header-bg.mp4" type="video/mp4" />
+         </video>
 
       <nav id="nav-wrap">
 
