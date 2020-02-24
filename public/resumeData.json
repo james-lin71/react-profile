@@ -2,9 +2,9 @@
   "main": {
     "name":"Lin Ming",
     "occupation":"Solid Web Developer",
-    "description":"Top talented web developer of 7+ years of experience dedicated to building and optimizing the performance of user-centrist, high-impact websites and solutions for nationwide and global companies.",
+    "description":"Top talented web developer of 6+ years of experience dedicated to building and optimizing the performance of user-centrist, high-impact websites and solutions for nationwide and global companies.",
     "image":"profilepic.jpg",
-    "bio":" Leverage technical, analytical and problem-solving skills to create dynamic, high-speed websites, apps and platforms fueling competitive advantage and revenue growth.",
+    "bio":"Leverage technical, analytical and problem-solving skills to create dynamic, high-speed websites, apps and platforms fueling competitive advantage and revenue growth.",
     "contactmessage":"Please contact me!",
     "email": "lin038532@gmail.com",
     "phone": "+7 914-070-9513",
@@ -15,7 +15,7 @@
       "zip": "692030"
     },
     "website": "http://hotdev6m.c1.biz",
-    "resumedownload":"https://drive.google.com/uc?id=1wjmDWSk_Tf7MGEbva7ROTpt6sxR0VYIO&authuser=0&export=download",
+    "resumedownload":"https://drive.google.com/uc?id=11NVjUdVNbuETla_eZGSGTNGAKN-onwRI&authuser=0&export=download",
     "social":[
       {
         "name":"facebook",
@@ -39,13 +39,13 @@
     "education":[
       {
         "school":"North China University of Science and Technology",
-        "degree":"Bachelor's Degree in Computer Science",
+        "degree":"Master's Degree in Computer Science",
         "graduated":"September 2012",
         "description":"Computer Software Engineering, distance learning"
       },
       {
-        "school":"Tianjin International Schoo",
-        "degree":"",
+        "school":"Tianjin University of Technology",
+        "degree":"Bachelor's Degree",
         "graduated":"March 2009",
         "description":"Computer Software Programing"
       }
@@ -54,20 +54,26 @@
       {
         "company":"Self Employed",
         "title":"Freelancer",
-        "years":"March 2018 - Present",
-        "description":"Help start-up companies with solid coding and professional front-end development."
+        "years":"JANUARY 2019 - PRESENT",
+        "description":"Over the last year, I have been building various types of products for several start-up companies. My representative project is a sound marketing website for sound maker customers. In this product, I act as a senior front-end developer and dude to all over the code challenges successfully with React, Redux, React Hooks, AWS EC2, S3, CloudFront, Stripe Payment, UI/UX, and google plus APIs as well. Also, gained a lot of experience and proficiency in Teamwork, Remote working and so on."
       },
       {
-        "company":"KR Soft.",
+        "company":"Yonyou, BEIJING",
         "title":"Senior Developer",
-        "years":"Jul 2015 – Dec 2018",
+        "years":"JULY 2015 - DECEMBER 2018",
         "description":"Improves systems performance by investigating problems, developing specifications, identifying trends in technology, and recommending solutions \nAssist other developers in resolving issues by providing guidance and training \nPerforms other duties as assigned by management \nMay make hardware or software purchasing recommendations regarding web development \nWork is constantly performed in an office environment \nMay develop a range of products including device drivers, patches, operating system modifications, graphics modules, etc \nCollaborate with web-developers building a browser-based front-end using HTML and JavaScript"
       },
       {
-        "company":"KR Soft.",
-        "title":"Junior Full-Stack Developer",
-        "years":"May 2014 – Jul 2015",
+        "company":"Neusoft., ShenYang",
+        "title":"Middle of Software Engineer",
+        "years":"MAY 2014 - JULY 2015",
         "description":"Perform performance tuning and optimization \nDesign and develop tools to improve efficiency \nAdminister document management and content management systems \nProvide documentation of developed code \nProvide basic levels of effort associated with work requests \nCommunicates with domain experts, users, and management throughout the software development lifecycle. T"
+      },
+      {
+        "company":"Neusoft., ShenYang",
+        "title":"Junior Software Engineer",
+        "years":"NOVEMBER 2013 - APRIL 2014",
+        "description":"Learned about the basics of Programming (C, C++, Java, JavaScript, HTML, CSS)"
       }
     ],
     "skills":[
@@ -105,9 +111,33 @@
     "projects": [
       {
         "title":"Education Resource Management System",
-        "category":"education resource manage system",
+        "category":"Education resource manage system",
         "image":"ecr.jpg",
         "url":"http://ecr.teewon.net"
+      },
+      {
+        "title":"Heart Rate Social",
+        "category":"Healthy and active people prefer to socialize with other people who care about their health. If this is you, join the Heart Rate Social family today and connect with other health minded people for that healthy relationship you've been searching for.",
+        "image":"heart_rate_social.jpg",
+        "url":"http://heartratesocial.com"
+      },
+      {
+        "title":"Flex",
+        "category":"Driver & Rider app like Uber",
+        "image":"flex.jpg",
+        "url":"http://flexinc.us"
+      },
+      {
+        "title":"Sound Wise Marketing Web site",
+        "category":"CRM web site for sound marketing",
+        "image":"mysoundwise.jpg",
+        "url":"https://mysoundwise.com"
+      },
+      {
+        "title":"Momnpophub",
+        "category":"CRM web site to manage customer's relationships for their small business.",
+        "image":"momnpophub.jpg",
+        "url":"https://momnpophub.com"
       }
     ]
   },
