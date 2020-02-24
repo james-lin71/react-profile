@@ -19,8 +19,8 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>&copy; Copyright 2017 Tim Baker</li>
-              <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
+              <li>&copy; Copyright 2017 Lin Ming</li>
+              <li>Design by <a title="Hotdev6m" href="http://github.com/hotdev6m/react-profile">Hotdev6m</a></li>
            </ul>
 
         </div>
